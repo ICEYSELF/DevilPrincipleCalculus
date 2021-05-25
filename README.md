@@ -62,7 +62,7 @@ Devil Principle Calculus 的基本语义和 Lambda Calculus 完全等同，但 D
 
 西医就是魔鬼法，西药也是魔鬼法，癌症都是骗人的。研究西药的人走错了路。多思考啊，西医用西药治癌症，实际上治的是根本不存在的病。现代社会，到处都是骗。
 
-=> `\lambda 西医. \lambda 西药. \lambda 癌症. 西药 (西医 西药 癌症)`
+=> `\lambda 西医. \lambda 西药. \lambda 癌症. 西药 (西医 西药 癌症)` (`SUCC` 函数)
 
 ### 特殊菜单
 

@@ -64,10 +64,29 @@ Devil Principle Calculus 的基本语义和 Lambda Calculus 完全等同，但 D
 
 => `\lambda 西医. \lambda 西药. \lambda 癌症. 西药 (西医 西药 癌症)` (`SUCC` 函数)
 
-### 特殊菜单
+### 特殊彩蛋
 
-“魔鬼法就是魔鬼法”和 Python 的 `import this` 有同样的效果，输出一个 Zen of Devil Principle，内容待定
+“魔鬼法就是魔鬼法”和 Python 的 `import this` 有同样的效果，输出一个 Zen of Devil Principle
 
+> 魔鬼法，一时爽
+>
+> 和跳楼一样，最后火葬场
+>
+> 现代社会到处都是骗
+>
+> 因果循环，报应不爽
+>
+> 什么癌症心理，皆为西医扯皮
+>
+> 什么市场经济，都是阴谋诡计
+>
+> 什么概率统计，不过小学儿戏
+>
+> 什么生命周期，无耻铁锈抄袭
+>
+> 行魔鬼法必走衰运，迟早倒霉
+>
+> 有谁免费讲道理？
 
 ## 实现
 
